@@ -1,0 +1,17 @@
+﻿label {
+    display: inline-block;
+    width: 170px;
+    
+}
+
+.input {
+    font: 1em sans-serif;
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
+.r {
+    margin-left: 174px;
+    padding-left: 100px;
+}
+
